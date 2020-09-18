@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&display=swap');
+
+/* Page 1 */
+
+
+.main-row{
+display: flex;
+padding-bottom: 50px;
+margin-left: 238px
+
+}
+
+.main-columns{
+flex: 50%;
+padding: 20px 20px 20px 20px;
+margin:auto
+}
+
+
+.vaults:hover{
+opacity: 80%;
+box-shadow: 5px 10px #D9AD2B
+}
+
+.experiments{
+border-color: #FFC300;
+border-width: 15px;
+box-shadow: 5px 10px #B38800;
+border-style: solid;
+width:300px;
+height: 300px;
+border-radius: 10px;
+background-color: #526AFF
+
+}
+
+.experiments:hover{
+opacity: 80%;
+box-shadow: 5px 10px #D9AD2B
+}
+
+#vaultphoto{
+  width: 90%;
+  margin-left: 10px;
+  margin-bottom: 100px;
+  margin-top: -30px
+}
+
+
+#molerat{
+  width: 95%;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px
+
+}
+
+
+.second-row{
+display: flex;
+border-width: 2px;
+border-style:solid;
+border-color:#FFC300;
+margin-left: 200px;
+width:1000px
+}
+
+
+.second-columns{
+flex: 50%
+padding: 20px 20px 20px 20px;
+margin: auto
+}
+
+.aboutus{
+color: #526AFF;
+}
+
+.aboutus:hover{
+background-color: #B38800
+}
+.contact{
+color: #526AFF
+}
+.contact:hover{
+background-color:#B38800
+}
+
+.Careers{
+color: #526AFF
+}
+
+.Careers:hover{
+background-color:#B38800
+}
+
+/* page 2 */
+
+
+.vaults{
+border-color: #FFC300;
+border-width: 15px;
+box-shadow: 5px 10px #B38800;
+border-style: solid;
+width:300px;
+height: 300px;
+border-radius: 10px;
+background-color:#526AFF ;
+}
+
+
+
+/* MAIN TAGS */
+
+
+
+
+
+
+#Title{
+  font-size: 100pt;
+  color: #FFC300;
+  text-shadow: 5px 5px #B38800;
+  padding: 20px 20px 20px -100px
+  font-family: 'Oswald';
+  text-align: center
+
+
+}
+
+
+#slogan{
+  color:  #FFC300;
+  padding: 20px 20px 20px 20px;
+  text-align: center
+
+}
+
+#contact{
+  color:  #FFC300;
+  padding: 20px 20px 20px 20px;
+  text-align: center;
+  font-size: 30pt
+}
+
+#return{
+color:  #FFC300;
+padding: 20px 20px 20px 20px;}
+
+#VaultTecLogo{
+width: 15%;
+display: inline-block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.Title-slogan{
+margin:auto
+}
+
+
+.main{
+  font-family: 'Oswald'
+
+}
+
+
+a:visited{
+color:#FFC300
+}
+
+
+.vault{
+padding: 20px 20px 20px 20px;
+margin: auto
+}
+
+#aboutusimages{
+
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 71%;
+}
+#vaultimages{
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 45%;
+border-style: solid;
+border-color: #FFC300;
+border-width: 10px;
+border-radius: 5px;
+box-shadow: 5px 5px #B38800;
+}
+
+#specialvideos{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 560px;
+  height: 315px;
+  border-style: solid;
+  border-color: #FFC300;
+  border-width: 10px;
+  border-radius: 5px;
+  box-shadow: 5px 5px #B38800;
+  margin-bottom: 60px
+
+}
+
+#text{
+padding-top: 50px;
+padding-bottom: 20px;
+font-size: 16pt;
+color: #B38800;
+align-content: center;
+margin: 50px 50px 50px 50px
+
+}
+
+#line{
+  border-style: solid;
+  border-width:2px;
+  border-color: #FFC300;
+  width: 1000px
+}
+
+#vaultboy{
+
+width: 30%;
+display:block;
+margin-left: auto;
+margin-right:auto
+}
